@@ -1,0 +1,15 @@
+i = 1
+z = 0
+while i 4 <=
+    j = 1
+    while j i <=
+        k = 1
+        while k j <=
+            z = z 1 +
+            k = k 1 +
+        end 
+        j = j 1 +
+    end
+    i = i 1 +
+end  
+
