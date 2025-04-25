@@ -1,0 +1,14 @@
+# recursive factorial 
+
+input = 4
+
+
+def fact n
+    if n 1 <=
+        output = 1
+    else 
+        output = n 1 - fact n *
+    fi
+fed 
+
+output = input fact
