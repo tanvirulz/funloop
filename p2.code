@@ -1,3 +1,4 @@
+# factorial using only addition
 input = 0
 x = 1
 submult = 1

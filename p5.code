@@ -1,3 +1,4 @@
+# primality test
 n = 223
 i = 2
 isprime = 1

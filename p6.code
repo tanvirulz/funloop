@@ -1,3 +1,5 @@
+# factorial and combination function 
+
 x = 2
 
 z = 4
@@ -22,14 +24,13 @@ def fact n
     output = r 
 fed 
 
-def combination n r
 
-    nf = n fact 
-    rf = r fact 
-    nrf = n r - fact 
-    output = nf rf // nrf //
+
+
+def comb n r 
+    output = n fact r fact // n r - fact //
 fed 
 
-output = 5 3 combination
+output = 5 3 comb
 
 
