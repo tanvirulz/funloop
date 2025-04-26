@@ -5,8 +5,8 @@ This are done as warm-up exercise.
 
 ## 📁 Table of Contents
 
-- [Interpreter for funloop] 
-- [Advent of Code]
+- [Interpreter for funloop](#interpreter-for-funloop) 
+- [Advent of Code](#advent-of-code)
 
 ## Interpreter for funloop 
 
