@@ -9,10 +9,15 @@ def div a b
     output = a b //
 fed
 
+
 def add a b 
     output = a b +
 
 fed
+
+def neg a
+    output = 0 a - 
+fed 
 
 def fact n
     r = 1
@@ -28,7 +33,7 @@ fed
 
 
 def comb n r 
-    output = n fact r fact // n r - fact //
+    output = n fact r fact div n r neg add fact div
 fed 
 
 output = 5 3 comb
