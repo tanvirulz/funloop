@@ -7,6 +7,7 @@ This are done as warm-up exercise.
 
 - [Interpreter for funloop](#interpreter-for-funloop) 
 - [Advent of Code](#advent-of-code)
+- [Sandbox](#sandbox)
 
 ## Interpreter for funloop 
 
@@ -39,3 +40,8 @@ Several example code written in this customized script is given in the `code` fo
 
 The `AOC` folder contains my solutions to Advent of code problems.  
 
+## Sandbox 
+
+Experimental code that tests various python libraries functionalities. 
+
+A sandbox for playful ideas. 
